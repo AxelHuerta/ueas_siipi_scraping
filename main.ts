@@ -45,43 +45,32 @@ await page.goto("https://siipi.izt.uam.mx/alumno/grupos_programados");
 // wait for the page loading
 await new Promise((r) => setTimeout(r, 5000));
 
-const table = await page.evaluate(() => {
-  const data: UEA[] = [];
-  const content = document.querySelector("tbody");
-  const columns = content?.querySelectorAll("tr") ?? [];
+// CLick the next button
+const nextBtn = await page.$(".next");
+await nextBtn!.click();
 
-  for (const column of Array.from(columns)) {
-    const rows = column.querySelectorAll("td");
+// wait for the page loading
+await new Promise((r) => setTimeout(r, 5000));
 
-    const claveElement = rows[0].querySelector("a");
-    const clave = claveElement ? claveElement.innerText.trim() : "";
-    const grupo = rows[1].innerText.trim();
-    const nombreElement = rows[2].querySelector("b");
-    const nombre = nombreElement ? nombreElement.innerText : "";
-    const profesor = rows[2].innerText.split("\n")[1];
-    const creditos = rows[3].innerText;
+let isEnabled = true;
 
-    const semana: string[][] = [];
-    for (let j = 4; j < 9; j++) {
-      const temp: string[] = rows[j].innerText.split("\n");
-      temp.pop();
-      semana.push(temp);
-    }
+let data: UEA[] = [];
 
-    data.push({
-      clave,
-      grupo,
-      nombre,
-      profesor,
-      creditos,
-      semana,
-    });
+while (isEnabled) {
+  const aux = await page.$(".disabled");
+  if (aux != null) {
+    isEnabled = false;
+  } else {
+    const nextBtn = await page.$(".next");
+    await nextBtn!.click();
+    await new Promise((r) => setTimeout(r, 5000));
+    const ueas = await getUEAs();
+    data = [...data, ...ueas];
   }
+}
 
-  return data;
-});
-
-console.log(table);
+// console.log(data);
+await Deno.writeTextFile("ueas.json", JSON.stringify(data, null, 2));
 
 // Take a screenshot of the page and save that to disk
 // const screenshot = await page.screenshot();
@@ -89,3 +78,43 @@ console.log(table);
 
 // Close the browser
 await browser.close();
+
+async function getUEAs() {
+  const table = await page.evaluate(() => {
+    const data: UEA[] = [];
+    const content = document.querySelector("tbody");
+    const columns = content?.querySelectorAll("tr") ?? [];
+
+    for (const column of Array.from(columns)) {
+      const rows = column.querySelectorAll("td");
+
+      const claveElement = rows[0].querySelector("a");
+      const clave = claveElement ? claveElement.innerText.trim() : "";
+      const grupo = rows[1].innerText.trim();
+      const nombreElement = rows[2].querySelector("b");
+      const nombre = nombreElement ? nombreElement.innerText : "";
+      const profesor = rows[2].innerText.split("\n")[1];
+      const creditos = rows[3].innerText;
+
+      const semana: string[][] = [];
+      for (let j = 4; j < 9; j++) {
+        const temp: string[] = rows[j].innerText.split("\n");
+        temp.pop();
+        semana.push(temp);
+      }
+
+      data.push({
+        clave,
+        grupo,
+        nombre,
+        profesor,
+        creditos,
+        semana,
+      });
+    }
+
+    return data;
+  });
+
+  return table;
+}

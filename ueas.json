@@ -1,0 +1,4989 @@
+[
+  {
+    "clave": "2100001",
+    "grupo": "CB02A",
+    "nombre": "METODO EXPERIMENTAL I",
+    "profesor": "EVELYN FERNANDA HUERTA CUEVAS",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "09:30 - 11:00",
+        "Por definir",
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100001",
+    "grupo": "CB02B",
+    "nombre": "METODO EXPERIMENTAL I",
+    "profesor": "MARIA SIRENIA IRMA SALAS JUAREZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "09:30 - 11:00",
+        "Por definir",
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100001",
+    "grupo": "CB52A",
+    "nombre": "METODO EXPERIMENTAL I",
+    "profesor": "GONZALO VICTOR ROJAS CARDENAS",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "17:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "17:00 - 18:30",
+        "Por definir",
+        "18:30 - 20:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100001",
+    "grupo": "CB03A",
+    "nombre": "METODO EXPERIMENTAL I",
+    "profesor": "ARMANDO CUAUHTEMOC PEREZ GUERRERO NOYOLA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [],
+      [
+        "09:30 - 11:00",
+        "Por definir",
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2100002",
+    "grupo": "CC01",
+    "nombre": "LABORATORIO DE SIMULACION",
+    "profesor": "ADRIAN MAURICIO ESCOBAR RUIZ",
+    "creditos": "6",
+    "semana": [
+      [],
+      [
+        "12:30 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100002",
+    "grupo": "CC51",
+    "nombre": "LABORATORIO DE SIMULACION",
+    "profesor": "CESAR AUGUSTO GUARIN DURAN",
+    "creditos": "6",
+    "semana": [
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100003",
+    "grupo": "CC02A",
+    "nombre": "METODO EXPERIMENTAL II",
+    "profesor": "HILDA NOEMI NUÑEZ YEPEZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100003",
+    "grupo": "CC05A",
+    "nombre": "METODO EXPERIMENTAL II",
+    "profesor": "HILDA NOEMI NUÑEZ YEPEZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2100003",
+    "grupo": "CC06A",
+    "nombre": "METODO EXPERIMENTAL II",
+    "profesor": "ROBERTO OLAYO VALLES",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [],
+      [
+        "11:00 - 12:30",
+        "Por definir",
+        "12:30 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2100003",
+    "grupo": "CC01A",
+    "nombre": "METODO EXPERIMENTAL II",
+    "profesor": "ARMANDO CASTILLO ANIMAS",
+    "creditos": "9",
+    "semana": [
+      [],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "09:30 - 11:00",
+        "Por definir",
+        "08:00 - 09:30",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2100003",
+    "grupo": "CC51A",
+    "nombre": "METODO EXPERIMENTAL II",
+    "profesor": "ASDRUBAL JESUS CEDEÑO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:30 - 18:00",
+        "Por definir",
+        "15:00 - 16:30",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110018",
+    "grupo": "CC01",
+    "nombre": "ELECTRICIDAD Y MAGNETISMO ELEMENTAL I",
+    "profesor": "JOSE MIGUEL NOYOLA POBLETE",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2110018",
+    "grupo": "CC03",
+    "nombre": "ELECTRICIDAD Y MAGNETISMO ELEMENTAL I",
+    "profesor": "ANTONIO AGUILAR AGUILAR",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2110018",
+    "grupo": "CC52",
+    "nombre": "ELECTRICIDAD Y MAGNETISMO ELEMENTAL I",
+    "profesor": "SILVIA SANDRA HIDALGO TOBON",
+    "creditos": "9",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA01",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "JUAN ISRAEL RIVAS SANCHEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA03",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "JOSE ANTONIO MORENO RAZO",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA04",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "PEDRO DIAZ LEYVA",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA51",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "ALMA LORENA MARCOS VIQUEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA05",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "EVELYN FERNANDA HUERTA CUEVAS",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA02",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "ELIZABETH CRUZ OSORIO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA52",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "MARCO ANTONIO NUÑEZ PERALTA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110019",
+    "grupo": "CA53",
+    "nombre": "MECANICA ELEMENTAL I",
+    "profesor": "HENRY GORDILLO MILLAN",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110020",
+    "grupo": "CB51",
+    "nombre": "MECANICA ELEMENTAL II",
+    "profesor": "CARLOS ANDRES ESCOBAR RUIZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2110020",
+    "grupo": "CB52",
+    "nombre": "MECANICA ELEMENTAL II",
+    "profesor": "ALMA MIREYA ARRIETA CASTAÑEDA",
+    "creditos": "9",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2110020",
+    "grupo": "CB01",
+    "nombre": "MECANICA ELEMENTAL II",
+    "profesor": "LUIS ALBERTO HERNANDEZ ROSAS",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110020",
+    "grupo": "CB02",
+    "nombre": "MECANICA ELEMENTAL II",
+    "profesor": "DALIA BERENICE CERVANTES CABRERA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110020",
+    "grupo": "CB03",
+    "nombre": "MECANICA ELEMENTAL II",
+    "profesor": "RODRIGO SANCHEZ GARCIA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2110021",
+    "grupo": "CB02",
+    "nombre": "FLUIDOS Y CALOR",
+    "profesor": "LUIS MIER Y TERAN CASANUEVA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2111042",
+    "grupo": "CD51",
+    "nombre": "LABORATORIO DE OPTICA",
+    "profesor": "REBECA SOSA FONSECA",
+    "creditos": "6",
+    "semana": [
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2111042",
+    "grupo": "CD01",
+    "nombre": "LABORATORIO DE OPTICA",
+    "profesor": "ROBERTO OLAYO VALLES",
+    "creditos": "6",
+    "semana": [
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2111042",
+    "grupo": "CD01",
+    "nombre": "LABORATORIO DE OPTICA",
+    "profesor": "LUIS GUILLERMO MENDOZA LUNA",
+    "creditos": "6",
+    "semana": [
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2111115",
+    "grupo": "CD53",
+    "nombre": "FISICA EXPERIMENTAL INTERMEDIA I",
+    "profesor": "ROBERTO OLAYO VALLES",
+    "creditos": "6",
+    "semana": [
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2111115",
+    "grupo": "CD53",
+    "nombre": "FISICA EXPERIMENTAL INTERMEDIA I",
+    "profesor": "CESAR AUGUSTO GUARIN DURAN",
+    "creditos": "6",
+    "semana": [
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2111115",
+    "grupo": "CD03",
+    "nombre": "FISICA EXPERIMENTAL INTERMEDIA I",
+    "profesor": "ANDRES FRANCISCO ESTRADA ALEXANDERS",
+    "creditos": "6",
+    "semana": [
+      [],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2111153",
+    "grupo": "CH01",
+    "nombre": "FISICA COMPUTACIONAL",
+    "profesor": "JESUS ENRIQUE DIAZ HERRERA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2111153",
+    "grupo": "CH51",
+    "nombre": "FISICA COMPUTACIONAL",
+    "profesor": "JOSE ANTONIO MORENO RAZO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2122059",
+    "grupo": "CE51",
+    "nombre": "MECANICA DE FLUIDOS",
+    "profesor": "VICTOR SANCHEZ VAZQUEZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2122086",
+    "grupo": "CE51",
+    "nombre": "FUNDAMENTOS Y MODELOS DE OPTIMIZACION",
+    "profesor": "ALEJANDRIA DENISSE PEREZ VALSECA",
+    "creditos": "9",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2130030",
+    "grupo": "OPEXT01",
+    "nombre": "INTRODUCCION AL PENSAMIENTO MATEMATICO",
+    "profesor": "MARIA DE LA ASUNCION PREISSER RODRIGUEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2150004",
+    "grupo": "CD01",
+    "nombre": "INTRODUCCION A LA INGENIERIA ELECTRONICA",
+    "profesor": "OSCAR AVILA MEJIA",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [],
+      [],
+      [
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2150004",
+    "grupo": "CD51",
+    "nombre": "INTRODUCCION A LA INGENIERIA ELECTRONICA",
+    "profesor": "MIGUEL ANGEL GUTIERREZ GALINDO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2150004",
+    "grupo": "OPEXT01",
+    "nombre": "INTRODUCCION A LA INGENIERIA ELECTRONICA",
+    "profesor": "JESUS BARRIOS ROMANO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2150005",
+    "grupo": "CA01",
+    "nombre": "INTRODUCCION A LA COMPUTACION",
+    "profesor": "MANUEL AGUILAR CORNEJO",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2150005",
+    "grupo": "CA02",
+    "nombre": "INTRODUCCION A LA COMPUTACION",
+    "profesor": "ALMA EDITH MARTINEZ LICONA",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2150005",
+    "grupo": "CA51",
+    "nombre": "INTRODUCCION A LA COMPUTACION",
+    "profesor": "REYNA CAROLINA MEDINA RAMIREZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2151014",
+    "grupo": "CK01",
+    "nombre": "REDES DE TELECOMUNICACIONES",
+    "profesor": "VICTOR MANUEL RAMOS RAMOS",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 11:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 11:30",
+        "Por definir"
+      ],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151014",
+    "grupo": "CK51",
+    "nombre": "REDES DE TELECOMUNICACIONES",
+    "profesor": "ENRIQUE RODRIGUEZ DE LA COLINA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151066",
+    "grupo": "CE01",
+    "nombre": "CIRCUITOS ELECTRICOS I",
+    "profesor": "NORMA CASTAÑEDA VILLA",
+    "creditos": "12",
+    "semana": [
+      [
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 09:30",
+        "Por definir"
+      ],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151066",
+    "grupo": "CE02",
+    "nombre": "CIRCUITOS ELECTRICOS I",
+    "profesor": "MARIA DEL PILAR GRANADOS TREJO",
+    "creditos": "12",
+    "semana": [
+      [
+        "11:00 - 12:30",
+        "Por definir"
+      ],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [
+        "11:00 - 12:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151066",
+    "grupo": "CE51",
+    "nombre": "CIRCUITOS ELECTRICOS I",
+    "profesor": "MIGUEL ANGEL BAUTISTA LEON",
+    "creditos": "12",
+    "semana": [
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151066",
+    "grupo": "CE52",
+    "nombre": "CIRCUITOS ELECTRICOS I",
+    "profesor": "EDMUNDO GERARDO URBINA MEDAL",
+    "creditos": "12",
+    "semana": [
+      [
+        "18:00 - 19:30",
+        "Por definir"
+      ],
+      [
+        "18:00 - 19:30",
+        "Por definir"
+      ],
+      [
+        "18:00 - 21:00",
+        "Por definir"
+      ],
+      [
+        "18:00 - 19:30",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151074",
+    "grupo": "CI51",
+    "nombre": "FUNDAMENTOS DE LOGICA DIGITAL",
+    "profesor": "MIGUEL ANGEL RUIZ SANCHEZ",
+    "creditos": "11",
+    "semana": [
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 16:30",
+        "Por definir"
+      ],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151080",
+    "grupo": "CJ51",
+    "nombre": "SISTEMAS CON MICROPROCESADORES I",
+    "profesor": "MAURICIO LOPEZ VILLASEÑOR",
+    "creditos": "10",
+    "semana": [
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151103",
+    "grupo": "CB02",
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "profesor": "MIGUEL ALFONSO CASTRO GARCIA",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "11:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "13:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151103",
+    "grupo": "OPEXT01",
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "profesor": "EDUARDO FILEMON VAZQUEZ SANTACRUZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2151103",
+    "grupo": "CB01",
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "profesor": "GILBERTO SINUHE TORRES COCKRELL",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ],
+      [
+        "09:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151103",
+    "grupo": "CB51",
+    "nombre": "FUNDAMENTOS DE PROGRAMACION",
+    "profesor": "MANUEL AGUILAR CORNEJO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151105",
+    "grupo": "CD01",
+    "nombre": "ALGORITMOS Y PATRONES DE ALMACNTO. NO LINEALES ORIENT. A OBJ",
+    "profesor": "MIGUEL ALFONSO CASTRO GARCIA",
+    "creditos": "11",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 11:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151105",
+    "grupo": "CD51",
+    "nombre": "ALGORITMOS Y PATRONES DE ALMACNTO. NO LINEALES ORIENT. A OBJ",
+    "profesor": "EDUARDO RODRIGUEZ FLORES",
+    "creditos": "11",
+    "semana": [
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151107",
+    "grupo": "CF01",
+    "nombre": "TEORIA MATEMATICA DE LA COMPUTACION",
+    "profesor": "MIGUEL ANGEL PIZAÑA LOPEZ",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151109",
+    "grupo": "CH01",
+    "nombre": "COMPUTACION Y SU ENTORNO EMPRESARIAL",
+    "profesor": "ALMA EDITH MARTINEZ LICONA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151110",
+    "grupo": "CG01",
+    "nombre": "COMPILADORES",
+    "profesor": "BENJAMIN MORENO MONTIEL",
+    "creditos": "8",
+    "semana": [
+      [
+        "11:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151111",
+    "grupo": "CG01",
+    "nombre": "PROGRAMACION CONCURRENTE",
+    "profesor": "BENJAMIN MORENO MONTIEL",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [
+        "12:00 - 13:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151112",
+    "grupo": "CG51",
+    "nombre": "INGENIERIA DE SOFTWARE",
+    "profesor": "HUMBERTO GUSTAVO CERVANTES MACEDA",
+    "creditos": "11",
+    "semana": [
+      [],
+      [],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 17:00",
+        "Por definir"
+      ],
+      [
+        "15:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151113",
+    "grupo": "CH01",
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "profesor": "RENE MAC KINNEY ROMERO",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2151113",
+    "grupo": "CH02",
+    "nombre": "INTELIGENCIA ARTIFICIAL",
+    "profesor": "ERIC ALFREDO RINCON GARCIA",
+    "creditos": "10",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151114",
+    "grupo": "CH01",
+    "nombre": "SISTEMAS OPERATIVOS",
+    "profesor": "ADRIANA PEREZ ESPINOSA",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 11:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151119",
+    "grupo": "CJ01",
+    "nombre": "LENGUAJES DE PROGRAMACION",
+    "profesor": "RENE MAC KINNEY ROMERO",
+    "creditos": "11",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151122",
+    "grupo": "CJ01",
+    "nombre": "TEMAS SELECTOS DE INTELIGENCIA ARTIFICIAL",
+    "profesor": "GILBERTO SINUHE TORRES COCKRELL",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2151123",
+    "grupo": "CJ51",
+    "nombre": "TEMAS SELECTOS DE BASES DE DATOS",
+    "profesor": "REYNA CAROLINA MEDINA RAMIREZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2151125",
+    "grupo": "CJ51",
+    "nombre": "TEMAS SELECTOS DE CIENCIAS DE LA COMPUTACION",
+    "profesor": "ADRIANA PEREZ ESPINOSA",
+    "creditos": "10",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211078",
+    "grupo": "HB05",
+    "nombre": "TEORIA ADMINISTRATIVA",
+    "profesor": "JOSE REGULO MORALES CALDERON",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211078",
+    "grupo": "HB06",
+    "nombre": "TEORIA ADMINISTRATIVA",
+    "profesor": "LUIS ANGEL VAZQUEZ LOPEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211078",
+    "grupo": "HB07",
+    "nombre": "TEORIA ADMINISTRATIVA",
+    "profesor": "SALVADOR TONATIUH PORRAS DUARTE",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211078",
+    "grupo": "HB08",
+    "nombre": "TEORIA ADMINISTRATIVA",
+    "profesor": "SALVADOR TONATIUH PORRAS DUARTE",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211079",
+    "grupo": "HB51",
+    "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+    "profesor": "LORENA LITAI RAMOS LUNA",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211079",
+    "grupo": "HB52",
+    "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+    "profesor": "LORENA LITAI RAMOS LUNA",
+    "creditos": "8",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211079",
+    "grupo": "HB53",
+    "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+    "profesor": "LUIS BUENO RODRIGUEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211079",
+    "grupo": "HB54",
+    "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+    "profesor": "LUIS BUENO RODRIGUEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211081",
+    "grupo": "HC02",
+    "nombre": "TEORIA DE LA ORGANIZACION",
+    "profesor": "ANTONIO BARBA ALVAREZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211081",
+    "grupo": "HC03",
+    "nombre": "TEORIA DE LA ORGANIZACION",
+    "profesor": "ANTONIO BARBA ALVAREZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211081",
+    "grupo": "HC54",
+    "nombre": "TEORIA DE LA ORGANIZACION",
+    "profesor": "LUIS ANGEL VAZQUEZ LOPEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211081",
+    "grupo": "HC04",
+    "nombre": "TEORIA DE LA ORGANIZACION",
+    "profesor": "ANGEL ALFREDO HERNANDEZ MORENO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211081",
+    "grupo": "HC05",
+    "nombre": "TEORIA DE LA ORGANIZACION",
+    "profesor": "ANGEL ALFREDO HERNANDEZ MORENO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211083",
+    "grupo": "HC08",
+    "nombre": "INFORMACION FINANCIERA",
+    "profesor": "CLARA ELENA VALLADARES SANCHEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211083",
+    "grupo": "HC09",
+    "nombre": "INFORMACION FINANCIERA",
+    "profesor": "CLARA ELENA VALLADARES SANCHEZ",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211083",
+    "grupo": "HC57",
+    "nombre": "INFORMACION FINANCIERA",
+    "profesor": "ALEJANDRA HERNANDEZ GARCIA",
+    "creditos": "9",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211083",
+    "grupo": "HC58",
+    "nombre": "INFORMACION FINANCIERA",
+    "profesor": "ALEJANDRA HERNANDEZ GARCIA",
+    "creditos": "9",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211085",
+    "grupo": "HD01",
+    "nombre": "COMPORTAMIENTO EN LAS ORGANIZACIONES",
+    "profesor": "MARIA YIRA FIGUEROA OLVERA",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211085",
+    "grupo": "HD53",
+    "nombre": "COMPORTAMIENTO EN LAS ORGANIZACIONES",
+    "profesor": "JESSICA HERRERA MARTELL",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211087",
+    "grupo": "HD25",
+    "nombre": "CONTABILIDAD ADMINISTRATIVA",
+    "profesor": "JORGE MELO SALAZAR",
+    "creditos": "9",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211087",
+    "grupo": "HD53",
+    "nombre": "CONTABILIDAD ADMINISTRATIVA",
+    "profesor": "JORGE MELO SALAZAR",
+    "creditos": "9",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211089",
+    "grupo": "HE01",
+    "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+    "profesor": "MARIA TERESA MAGALLON DIEZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211089",
+    "grupo": "HE02",
+    "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+    "profesor": "MARIA TERESA MAGALLON DIEZ",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211089",
+    "grupo": "HE51",
+    "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+    "profesor": "ERNESTINA INES ZAPIAIN GARCIA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211089",
+    "grupo": "HE52",
+    "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+    "profesor": "ERNESTINA INES ZAPIAIN GARCIA",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211090",
+    "grupo": "HE05",
+    "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+    "profesor": "JOSE MARIA MARTINELLI BENEDICTO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211090",
+    "grupo": "HE06",
+    "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+    "profesor": "JOSE MARIA MARTINELLI BENEDICTO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211090",
+    "grupo": "HE53",
+    "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+    "profesor": "JUAN MENDOZA PEREZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211090",
+    "grupo": "HE54",
+    "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+    "profesor": "JUAN MENDOZA PEREZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211091",
+    "grupo": "HE07",
+    "nombre": "FUNDAMENTOS DE POLITICA ECONOMICA",
+    "profesor": "EDUARDO RAMIREZ CEDILLO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211091",
+    "grupo": "HE08",
+    "nombre": "FUNDAMENTOS DE POLITICA ECONOMICA",
+    "profesor": "GERMAN VARGAS LARIOS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211091",
+    "grupo": "HE55",
+    "nombre": "FUNDAMENTOS DE POLITICA ECONOMICA",
+    "profesor": "GERMAN VARGAS LARIOS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "HE09",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "CARLOS PEREZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "HE57",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "J. JESUS MARIA ZAVALA RUIZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "OPEXT52",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "J. JESUS MARIA ZAVALA RUIZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "HE10",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "MERCEDES MARGARITA IBARRA PUIG",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "HE11",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "MERCEDES MARGARITA IBARRA PUIG",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211092",
+    "grupo": "HE12",
+    "nombre": "ANALISIS DE DECISIONES",
+    "profesor": "CARLOS PEREZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211093",
+    "grupo": "HF01",
+    "nombre": "MARKETING I",
+    "profesor": "IRENE JUANA GUILLEN MONDRAGON",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211093",
+    "grupo": "HF02",
+    "nombre": "MARKETING I",
+    "profesor": "ANA BEATRIZ CASTILLO HERRERA",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211094",
+    "grupo": "HF55",
+    "nombre": "GESTION Y CONTROL ESTRATEGICOS I",
+    "profesor": "GUILLERMO JAVIER ROLANDO GARDUÑO VALERO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211094",
+    "grupo": "HF56",
+    "nombre": "GESTION Y CONTROL ESTRATEGICOS I",
+    "profesor": "GUILLERMO JAVIER ROLANDO GARDUÑO VALERO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2211095",
+    "grupo": "HF03",
+    "nombre": "ADMINISTRACION FINANCIERA I",
+    "profesor": "ROSA MARIA ORTEGA OCHOA",
+    "creditos": "9",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211095",
+    "grupo": "HF04",
+    "nombre": "ADMINISTRACION FINANCIERA I",
+    "profesor": "MARIA TERESA DEL SOCORRO MONTOYA FLORES",
+    "creditos": "9",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211095",
+    "grupo": "HF05",
+    "nombre": "ADMINISTRACION FINANCIERA I",
+    "profesor": "MARIA TERESA DEL SOCORRO MONTOYA FLORES",
+    "creditos": "9",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2211095",
+    "grupo": "HF57",
+    "nombre": "ADMINISTRACION FINANCIERA I",
+    "profesor": "ANGEL ALFREDO HERNANDEZ MORENO",
+    "creditos": "9",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2212000",
+    "grupo": "HG51",
+    "nombre": "PROBLEMAS FILOSOFICOS Y CIVILIZACION OCCIDENTAL",
+    "profesor": "JOSE SAUL VAQUERA GALLARDO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212002",
+    "grupo": "HF09",
+    "nombre": "DERECHO II",
+    "profesor": "JAVIER MERINO DELGADO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212002",
+    "grupo": "HF10",
+    "nombre": "DERECHO II",
+    "profesor": "JAVIER MERINO DELGADO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212006",
+    "grupo": "HJ01",
+    "nombre": "VALUACION DE PROYECTOS",
+    "profesor": "MARTHA BEATRIZ MOTA ARAGON",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2212008",
+    "grupo": "HH06",
+    "nombre": "METODOLOGIA DE ANALISIS DE PROBLEMAS EN LAS ORGANIZACIONES",
+    "profesor": "REGINA LEAL GUEMEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212009",
+    "grupo": "HI02",
+    "nombre": "HERRAMIENTAS CUALITATIVAS PARA EL ANALISIS DE DECISIONES",
+    "profesor": "ANTONIO CASTRO MARQUEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2212012",
+    "grupo": "HL06",
+    "nombre": "PROCESOS DE TOMA DE DECISIONES. ANALISIS DE CASOS",
+    "profesor": "JORGE TOVAR GARCIA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "H214"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "H214"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212013",
+    "grupo": "HH02",
+    "nombre": "LIDERAZGO",
+    "profesor": "BEATRIZ MORALES HERRERA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212013",
+    "grupo": "HH03",
+    "nombre": "LIDERAZGO",
+    "profesor": "BEATRIZ MORALES HERRERA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212014",
+    "grupo": "HI03",
+    "nombre": "HABILIDADES DIRECTIVAS",
+    "profesor": "ENEIDA MARQUEZ SERRANO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212014",
+    "grupo": "HI04",
+    "nombre": "HABILIDADES DIRECTIVAS",
+    "profesor": "ENEIDA MARQUEZ SERRANO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212015",
+    "grupo": "HJ02",
+    "nombre": "ADMINISTRACION DEL CAMBIO ESTRATEGICO",
+    "profesor": "INOCENTE DIEGO MANZANO LUIS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212016",
+    "grupo": "HK02",
+    "nombre": "GESTION DEL CONOCIMIENTO",
+    "profesor": "INOCENTE DIEGO MANZANO LUIS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212017",
+    "grupo": "HL01",
+    "nombre": "GESTION DE PROYECTOS",
+    "profesor": "FRANCISCO JAVIER MANCILLA VENEGAS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "H214"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "H214"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2212038",
+    "grupo": "HK03",
+    "nombre": "SISTEMA DE INFORMACION INTERNACIONAL",
+    "profesor": "GUILLERMO RUIZ SANTIAGO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2224041",
+    "grupo": "OPEXT01",
+    "nombre": "CULTURA",
+    "profesor": "PATRICIA DE LEONARDO Y RAMIREZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "F019"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "F019"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2224041",
+    "grupo": "OPEXT02",
+    "nombre": "CULTURA",
+    "profesor": "RAINER ENRIQUE HAMEL WILCKE",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2224041",
+    "grupo": "OPEXT03",
+    "nombre": "CULTURA",
+    "profesor": "RAINER ENRIQUE HAMEL WILCKE",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2224060",
+    "grupo": "HH01",
+    "nombre": "ANTROPOLOGIA SIMBOLICA",
+    "profesor": "RAUL NIETO CALLEJA",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2224060",
+    "grupo": "HH02",
+    "nombre": "ANTROPOLOGIA SIMBOLICA",
+    "profesor": "MARIA EUGENIA OLAVARRIA PATIÑO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "10:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2241088",
+    "grupo": "HB02",
+    "nombre": "INTRODUCCION A LA MICROECONOMIA I",
+    "profesor": "MIGUEL ALVAREZ TEXOCOTITLA",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA01",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "JOSE JULIO NARES HERNANDEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA02",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "EDWIN BULMARO BAHENA ARMILLAS",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA03",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "JOSE JULIO NARES HERNANDEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA04",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "DAVID LUJAN VERON",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA05",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "EDWIN BULMARO BAHENA ARMILLAS",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA50",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "ARNULFO ARTEAGA GARCIA",
+    "creditos": "8",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA52",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "MARIO VILLEGAS GONZALEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA53",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "MARIO VILLEGAS GONZALEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA06",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "MONICA DENISSE ROSAS FONSECA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA07",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "EDGAR EDUARDO ROJAS DURAN",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA51",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "EDGAR EDUARDO ROJAS DURAN",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250035",
+    "grupo": "HA54",
+    "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+    "profesor": "RAUL ROMERO RUIZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA01",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "CARLOS JUAREZ GUTIERREZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA02",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "MARIA JOCABED MENDOZA PARDO",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA03",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "MARIA JOCABED MENDOZA PARDO",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA04",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "FERNANDO GUADALUPE GAONA MONTIEL",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA05",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "SAYDI CECILIA NUÑEZ CETINA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA06",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "RODRIGO GORDOA DE LA HUERTA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA07",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "RODRIGO GORDOA DE LA HUERTA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA08",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "ELIZABETH BALLADARES GOMEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA09",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "SAYDI CECILIA NUÑEZ CETINA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA51",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "PAOLA ANDREA GUERRERO MOSQUERA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250036",
+    "grupo": "HA52",
+    "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+    "profesor": "PAOLA ANDREA GUERRERO MOSQUERA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA02",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "DAMIAN ISLAS MONDRAGON",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA03",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "CARLOS ENRIQUE MALDONADO MARTINEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA04",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "CARLOS ENRIQUE MALDONADO MARTINEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA05",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "DAMIAN ISLAS MONDRAGON",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA50",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "DAMIAN ISLAS MONDRAGON",
+    "creditos": "8",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA51",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "MANUEL ANTONIO GUILLEN PUENTE",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA52",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "MANUEL ANTONIO GUILLEN PUENTE",
+    "creditos": "8",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA01",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "RUBEN RABINDRANATH GARCIA CLARCK",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA06",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "RUBEN RABINDRANATH GARCIA CLARCK",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA07",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "JURIS TIPA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA08",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "DIANA LUCERO JAIMES DUARTE",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA53",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "MARCOS ALBERTO ALEGRIA POLO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA54",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "MARCOS ALBERTO ALEGRIA POLO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2250037",
+    "grupo": "HA09",
+    "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+    "profesor": "JOSE LUIS GUTIERREZ CARBONELL",
+    "creditos": "8",
+    "semana": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "08:00 - 12:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD08",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "JAVIER VIVALDO LIMA",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D210"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D210"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD09",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "AMERICA BUSTAMANTE PIEDRAGIL",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "D118"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D118"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD10",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "MARICELA HERNANDEZ VIRAMONTES",
+    "creditos": "10",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "D112"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D112"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD15",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "AMERICA BUSTAMANTE PIEDRAGIL",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D118"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D118"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD02",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "JESUS MIGUEL RODRIGUEZ RODRIGUEZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "D119"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D119"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD03",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "MARIA VIRGINIA MERCAU",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "D120"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D120"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD04",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "BEATRIZ RAMIREZ FIGUEROA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "D116"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D116"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD05",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "MARIA VIRGINIA MERCAU",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "D120"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D120"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD13",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "RAYMUNDO DANTE ROMERO GUTIERREZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "D111"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D111"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD14",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "HERMILO HERNANDEZ RAMIREZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "D112"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D112"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255064",
+    "grupo": "HD51",
+    "nombre": "INGLES INTERMEDIO I",
+    "profesor": "BEATRIZ RAMIREZ FIGUEROA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "D116"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "D116"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE02",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "MARICELA HERNANDEZ VIRAMONTES",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D112"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D112"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE03",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "MARIA DEL CARMEN PEDRAZA SANCHEZ",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D120"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D120"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE04",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "MARIA DEL CARMEN PEDRAZA SANCHEZ",
+    "creditos": "10",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "D120"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D120"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE05",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "MARICELA HERNANDEZ VIRAMONTES",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "D112"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D112"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE06",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "JULIO CESAR ROSALES VARELA",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D111"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D111"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE16",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "JUAN MANUEL HERNANDEZ BARCENAS",
+    "creditos": "10",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "D115"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D115"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "CAVSA02",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "ANA MARIA MENDOZA BATISTA",
+    "creditos": "10",
+    "semana": [
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE07",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "ROCIO HERNANDEZ LOPEZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "D117"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D117"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE11",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "SHELICK ERIKA GARCIA GALVAN",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "D211"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D211"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE15",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "SHELICK ERIKA GARCIA GALVAN",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "D211"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "D211"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE51",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "JOSE RAMIRO REYES GARCIA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "D122"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "D122"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE53",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "VICTOR JESUS SESEÑA GRIJALVA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "18:00 - 20:00",
+        "D112"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "D112"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE52",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "JUAN CARLOS ARELLANO GARCIA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "D111"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "D111"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255065",
+    "grupo": "HE01",
+    "nombre": "INGLES INTERMEDIO II",
+    "profesor": "ROCIO HERNANDEZ LOPEZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "10:00 - 14:00",
+        "D211"
+      ]
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF01",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "JULIO CESAR ROSALES VARELA",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "D111"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D111"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF02",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "JAVIER VIVALDO LIMA",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "D210"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D210"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF14",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "JUAN MANUEL HERNANDEZ BARCENAS",
+    "creditos": "10",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "D115"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D115"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF52",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "FERNANDO MEDINA CORDERO",
+    "creditos": "10",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "D116"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "D116"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF56",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "FERNANDO MEDINA CORDERO",
+    "creditos": "10",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "D116"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "D116"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF10",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "GRISELDA LIRA DIAZ",
+    "creditos": "10",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "D117"
+      ],
+      [],
+      [
+        "07:00 - 08:00",
+        "D117"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF03",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "ROCIO HERNANDEZ LOPEZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "D117"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D117"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF05",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "JUAN RICARDO UBIARCO MOYA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "D121"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D121"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF07",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "BEATRIZ RAMIREZ FIGUEROA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "D116"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "D116"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF11",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "JESUS MIGUEL RODRIGUEZ RODRIGUEZ",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "D113"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "D113"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF51",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "SHELICK ERIKA GARCIA GALVAN",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "D211"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "D211"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "HF53",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "VICTOR JESUS SESEÑA GRIJALVA",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "D112"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "D112"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255066",
+    "grupo": "CAVSA03",
+    "nombre": "INGLES INTERMEDIO III",
+    "profesor": "MARIA VIRGINIA MERCAU",
+    "creditos": "10",
+    "semana": [
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "18:00 - 20:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255183",
+    "grupo": "HA02",
+    "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+    "profesor": "LUCIA PI CHOLULA",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2255183",
+    "grupo": "HA03",
+    "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+    "profesor": "SERGIO ANTONIO TOVILLA MARTINEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255183",
+    "grupo": "HA04",
+    "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+    "profesor": "SERGIO ANTONIO TOVILLA MARTINEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255183",
+    "grupo": "HA01",
+    "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+    "profesor": "CLAUDIA MARIBEL DOMINGUEZ MIRANDA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "12:00 - 16:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2255195",
+    "grupo": "HE01",
+    "nombre": "LITERATURA HISPANOAMERICANA. SIGLOS XVI-XVIII",
+    "profesor": "GERARDO ROMAN ALTAMIRANO MEZA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255195",
+    "grupo": "HE02",
+    "nombre": "LITERATURA HISPANOAMERICANA. SIGLOS XVI-XVIII",
+    "profesor": "MARIA JOSE RODILLA LEON",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255305",
+    "grupo": "HB01",
+    "nombre": "ETICA II",
+    "profesor": "ENRIQUE SERRANO GOMEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2255305",
+    "grupo": "HB02",
+    "nombre": "ETICA II",
+    "profesor": "JORGE ISSA GONZALEZ",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293011",
+    "grupo": "HH03",
+    "nombre": "INTRODUCCION A LA SOCIOLOGIA",
+    "profesor": "ARNULFO ARTEAGA GARCIA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293034",
+    "grupo": "HE01",
+    "nombre": "FUNDAMENTOS DE GEOGRAFIA HISTORICA",
+    "profesor": "PEDRO SUNYER MARTIN",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293037",
+    "grupo": "HJ02",
+    "nombre": "GEOGRAFIA DE MEXICO",
+    "profesor": "ADRIANA PETROVNA GOMEZ BONILLA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293042",
+    "grupo": "HH01",
+    "nombre": "TEORIAS DEL DESARROLLO LOCAL",
+    "profesor": "MARTIN MANUEL CHECA ARTASU",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2293044",
+    "grupo": "HH01",
+    "nombre": "PENSAMIENTO AMBIENTALISTA",
+    "profesor": "MATTHEW JAMES LORENZEN MARTINY",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293054",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA URBANA",
+    "profesor": "PAULA CAROLINA SOTO VILLAGRAN",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2293056",
+    "grupo": "HJ01",
+    "nombre": "TEMAS SELECTOS DE GEOGRAFIA III",
+    "profesor": "ADRIAN GIOVANI TREJO GONZALEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2293089",
+    "grupo": "HH02",
+    "nombre": "SOCIOLOGIA DEL TRABAJO",
+    "profesor": "ROSA SILVIA ARCINIEGA ARCE",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2293089",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA DEL TRABAJO",
+    "profesor": "LUIS JAVIER MELGOZA VALDIVIA",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293096",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA DE LOS MOVIMIENTOS SOCIALES",
+    "profesor": "OTTO ROMAN DEL CORAZON DE JESUS FERNANDEZ REYES",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2293096",
+    "grupo": "HH02",
+    "nombre": "SOCIOLOGIA DE LOS MOVIMIENTOS SOCIALES",
+    "profesor": "FRANCISCO JAVIER NAVARRO CAMPOS",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "14:00 - 16:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2293097",
+    "grupo": "HJ01",
+    "nombre": "METODOS Y TECNICAS DE ACCION SOCIAL",
+    "profesor": "MARIA LUISA MUSSOT LOPEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "08:00 - 10:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2294003",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA RURAL",
+    "profesor": "MATTHEW JAMES LORENZEN MARTINY",
+    "creditos": "8",
+    "semana": [
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      []
+    ]
+  },
+  {
+    "clave": "2294004",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA POLITICA",
+    "profesor": "OTTO ROMAN DEL CORAZON DE JESUS FERNANDEZ REYES",
+    "creditos": "8",
+    "semana": [
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "12:00 - 14:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2294008",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA AMBIENTAL",
+    "profesor": "JOSEMANUEL LUNA NEMECIO",
+    "creditos": "8",
+    "semana": [
+      [],
+      [],
+      [],
+      [],
+      [
+        "10:00 - 14:00",
+        "Por definir"
+      ]
+    ]
+  },
+  {
+    "clave": "2294009",
+    "grupo": "HH01",
+    "nombre": "SOCIOLOGIA DE GENERO",
+    "profesor": "FABIOLA CAMACHO NAVARRETE",
+    "creditos": "8",
+    "semana": [
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "10:00 - 12:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "clave": "2294009",
+    "grupo": "HH02",
+    "nombre": "SOCIOLOGIA DE GENERO",
+    "profesor": "ALMA PATRICIA BARBOSA SANCHEZ",
+    "creditos": "8",
+    "semana": [
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      [
+        "16:00 - 18:00",
+        "Por definir"
+      ],
+      [],
+      []
+    ]
+  }
+]
